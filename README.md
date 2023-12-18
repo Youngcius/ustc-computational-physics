@@ -1,4 +1,5 @@
-# Computational Physics
+# USTC Computational Physics
+
 These sub-folders are about programming assignments of the course Computational Physics at USTC.
 
 See each folder to see details of source code and reports.
