@@ -71,4 +71,4 @@ EnergyOdd::usage="奇宇称的能量谱"
 EnergyEven::usage="偶宇称的能量谱"
 ```
 
-See [hw5 report](./hw05/result.pdf) or [result.nb](./hw_05/result.nb) for result demonstration.
+See [hw5 report](./hw05/result.pdf) or [result.nb](./hw05/result.nb) for result demonstration.
